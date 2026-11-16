@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://marioterra.github.io/landing-propietarios/sitemap.xml
-
-
+Sitemap: https://valoracion.terrahabitat.es/sitemap.xml
 
